@@ -29,3 +29,4 @@ Canvas Size: Adjust CANVAS_WIDTH and CANVAS_HEIGHT to change the game area size.
 Border Size: Change BORDER_SIZE to modify the border thickness around the canvas.
 Contributing
 Feel free to fork this project and contribute by submitting a pull request. We appreciate your input!
+![Hungry-Python-Game-Img](https://github.com/SammyCode002/SammysSnakeGame/assets/139438647/c4e89294-4e3d-4813-9020-97c4715a8d7c)
