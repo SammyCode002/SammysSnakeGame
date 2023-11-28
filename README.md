@@ -1,6 +1,3 @@
-
-Certainly! Here's a README template for your snake game created in Processing 4 using Python:
-
 Sammy's Snake Game
 Welcome to Sammy's Snake Game! This is a classic snake game developed in Processing 4 using Python. Navigate the snake to eat apples and grow longer, but be careful not to run into the walls or yourself!
 
